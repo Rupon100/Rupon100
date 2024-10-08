@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Rupon Mia 👋
 
-<!--
-**Rupon100/Rupon100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am a front-end learner passionate about mastering JavaScript and ReactJS. Having completed a course in Tailwind CSS, I aim to create responsive and visually appealing web applications while continually improving my skills.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- ReactJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Tailwind CSS
+
+## 📫 Connect with Me
+- https://www.linkedin.com/in/rupon-mia-757b58266/
+
+## 📂 My Projects
+- https://ph-tube-rupo.netlify.app/
+- https://rupon100.github.io/Aid-Bangladesh/
+- https://bmi-js-lovat.vercel.app/
+
+## 💡 Fun Fact
+I love coding and learning new technologies!
