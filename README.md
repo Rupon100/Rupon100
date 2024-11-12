@@ -24,6 +24,6 @@ I am a passionate web developer with a focus on both front-end and back-end tech
 - https://rupon100.github.io/Aid-Bangladesh/
 - https://bmi-js-lovat.vercel.app/
 
-## 💡 A Bit About Me
+## 💡 Get to Know Me
 I’m passionate about coding and continually seeking to expand my expertise with new technologies.
 
