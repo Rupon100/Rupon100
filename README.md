@@ -1,10 +1,11 @@
-# Hi there, I'm Rupon Mia 👋
+# Hello, I'm Rupon Mia 👨‍💻 | A coding enthusiast on a mission to build innovative and impactful web experiences!
 
 ## 👩‍💻 About Me
-I am a front-end learner passionate about mastering JavaScript and ReactJS. Having completed a course in Tailwind CSS, I aim to create responsive and visually appealing web applications while continually improving my skills.
+I am a passionate web developer with a focus on both front-end and back-end technologies. While I’m building my expertise in ReactJS, I’m also learning backend development with tools like Firebase, Node.js, Express.js, and MongoDB. My goal is to create robust, full-stack web applications and continually enhance my skills in both frontend and backend technologies.
 
 ## 🌱 Currently Learning
-- ReactJS
+- Backend Development (Firebase, Node.js, Express.js, MongoDB)
+- Deepening ReactJS skills through continuous practice
 
 ## 🛠️ Technologies & Tools
 - HTML
@@ -12,14 +13,17 @@ I am a front-end learner passionate about mastering JavaScript and ReactJS. Havi
 - JavaScript
 - ReactJS
 - Tailwind CSS
+- Firebase
 
 ## 📫 Connect with Me
 - https://www.linkedin.com/in/rupon-mia-757b58266/
 
 ## 📂 My Projects
+- https://gadget-heaven-rupon100.netlify.app/
 - https://ph-tube-rupo.netlify.app/
 - https://rupon100.github.io/Aid-Bangladesh/
 - https://bmi-js-lovat.vercel.app/
 
-## 💡 Fun Fact
-I love coding and learning new technologies!
+## 💡 A Bit About Me
+I’m passionate about coding and continually seeking to expand my expertise with new technologies.
+
