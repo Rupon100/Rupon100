@@ -1,36 +1,103 @@
-# Hello, I'm Rupon Mia 👨‍💻 | A coding enthusiast on a mission to build innovative and impactful web experiences!
+<div align="center">
+  <img height="450" src="https://i.ibb.co.com/svChH81b/readme-cover.png"  />
+</div>
 
-## 👩‍💻 About Me
-I am a passionate web developer with a focus on both front-end and back-end technologies. While I’m building my expertise in ReactJS, I’m also learning backend development with tools like Firebase, Node.js, Express.js, MongoDB, and JSON Web Tokens (JWT). My goal is to create robust, secure, and full-stack web applications while continually enhancing my skills in modern technologies.
+###
 
-## 🌱 Currently Learning
-- Backend Development (Node.js, Express.js, MongoDB)
-- Deepening ReactJS skills through continuous practice
-- Implementing JWT for secure authentication in full-stack projects
+<h1 align="center">Rupon Mia</h1>
 
-## 🛠️ Technologies & Tools
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- Tailwind CSS
-- Firebase
-- Node.js
-- Express.js
-- MondoDB
-- JWT
+###
 
-## 📫 Connect with Me
-- https://www.linkedin.com/in/rupon-mia-757b58266/
+<p align="center">Frontend Developer | ReactJS Enthusiast</p>
 
-## 📂 My Projects
-- https://assign-11-2c38d.web.app/ (A secure authentication system using JWT)
-- https://reelora-83735.web.app/
-- https://ecowander-5244c.web.app/
-- https://gadget-heaven-rupon100.netlify.app/
-- https://ph-tube-rupo.netlify.app/
-- https://rupon100.github.io/Aid-Bangladesh/
+###
 
-## 💡 Get to Know Me
-I’m passionate about coding and continually seeking to expand my expertise with new technologies. Currently, I’m integrating JWT into my projects to enhance security and provide real-world solutions.
+<h2 align="left">👩‍💻About me</h2>
 
+###
+
+<p align="left">I’m a passionate Web Developer skilled in both front-end and back-end technologies. While specializing in ReactJS, I’m also learning backend development with Firebase, Node.js, Express.js, MongoDB, and JWT. My goal is to build secure, full-stack applications while continuously improving my skills.</p>
+
+###
+
+<h2 align="left">🌱 Currently Learning</h2>
+
+###
+
+<p align="left">- Backend Development (Node.js, Express.js, MongoDB)<br>- Deepening ReactJS skills through continuous practice<br>- Exploring Next.js</p>
+
+###
+
+<h2 align="left">🧑🏿‍💻Front-end Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h2 align="left">🧑🏿‍💻Back-end Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<h2 align="left">🛠️ Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">📫 Connect with Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rupon-mia-757b58266/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/FardiRupon81077" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupon100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupon100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rupon100/Rupon100/output/snake.svg" alt="Snake animation" />
+
+###
