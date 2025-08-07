@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="450" src="https://i.ibb.co.com/svChH81b/readme-cover.png"  />
-</div>
-
 ###
 
 <h1 align="center">Rupon Mia</h1>
